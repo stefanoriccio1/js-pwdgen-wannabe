@@ -20,3 +20,8 @@ console.log(password);
 
 // stampo password su html
 document.getElementById('password_utente').innerHTML = password;
+
+// stampo nome utente su innerHTML
+document.getElementById('nome_utente').innerHTML = nomeUtente;
+// stampo nome utente su innerHTML
+document.getElementById('cognome_utente').innerHTML = cognomeUtente;
